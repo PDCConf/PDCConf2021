@@ -1,0 +1,70 @@
+baseURL = "https://sandbox-devfesttoulouse.firebaseapp.com/"
+languageCode = "en"
+title = "PowerShell DevOps and Cloud Conference 2021"
+
+# Theme
+theme = "devfest-theme-hugo"
+
+# Params
+
+enableEmoji = true
+enableRobotsTXT = true
+enableMissingTranslationPlaceholders = true
+relativeURLs = true
+googleAnalytics = "UA-37717223-8"
+
+[params]
+    title = "PowerShell DevOps and Cloud Conference 2021"
+    date = "2021-09-15"
+    description = "PDC Conference description here"
+    images = ["/images/social-share.jpg"]
+    email = "contact@pdcconf.in"
+    keywords = "event, gdg, gde, devfest, google, programming, android, chrome, developers, web, cloud, androiddev"
+    copyright = "We :heart:️ chocolatines"
+    cfpUrl = "sessionize url here"
+    subscriptionUrl = "http://eepurl.com/dps1j5"
+    appleTouchIcon = "/apple-touch-icon.png"
+    favicon32 = "/favicon-32x32.png"
+    favicon16 = "/favicon-16x16.png"
+    manifest = "/manifest.json"
+    safariPinnedTab = "/safari-pinned-tab.svg"
+    themeColor = "#673ab7"
+    googleWebmasterKey = "BcIJYWDHoblML5DO66_b1BGBne9J_7Oq3GjC5SDCKK8"
+
+[params.logos]
+    jumbo = "/images/logos/PDCConf_transparent.png"
+    header = "/images/logos/PDCConf_transparent_logo.png"
+    footer = "/images/logos/PDCConf_transparent_logo.png"
+
+[menu]
+
+
+[languages]
+[languages.en]
+    weight = 1
+    languageName = "gb"
+
+[taxonomies]
+  tag = "tags"
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    anonymizeIP = false
+    disable = false
+    respectDoNotTrack = false
+    useSessionStorage = false
+  [privacy.instagram]
+    disable = true
+    simple = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = false
+    simple = false
+  [privacy.vimeo]
+    disable = true
+    simple = false
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = false
