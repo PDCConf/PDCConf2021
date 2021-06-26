@@ -8,8 +8,8 @@
   <a href="https://www.facebook.com/sharer.php?u={{.Site.Params.siteURL}}&p[title]={{.Site.Params.socialMediaShareText}}" class="facebook"><i class="fa fa-facebook"></i></a>
   <a href="https://twitter.com/intent/tweet?text={{.Site.Params.socialMediaShareText}}" class="twitter"><i class="fa fa-twitter"></i></a>
   <a href="https://www.linkedin.com/sharing/share-offsite/?url={{.Site.Params.siteURL}}&title={{.Site.Params.socialMediaShareText}}" class="linkedin"><i class="fa fa-linkedin"></i></a>
-  <a href="https://web.whatsapp.com://send?text={{.Site.Params.socialMediaShareText}}" class="whatsapp"><i class="fa fa-whatsapp"></i></a>
-  <a href="https://telegram.me/share/url?url={{.Site.Params.siteURL}}" class="telegram"><i class="fa fa-telegram"></i></a>
+  <a href="whatsapp://send?text={{.Site.Params.socialMediaShareText}}" data-action="share/whatsapp/share" class="whatsapp"><i class="fa fa-whatsapp"></i></a>
+  <a href="https://t.me/share/url?text={{.Site.Params.socialMediaShareText}}" class="telegram"><i class="fa fa-telegram"></i></a>
 </div>
 <!-- <div class="inner">{{ .Inner }}</div> -->
 
