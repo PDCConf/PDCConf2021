@@ -35,6 +35,8 @@ Come along, share your knowledge and learn something new.
 
 {{% /home-info %}}
 
+{{% share-button %}}
+{{% /share-button %}}
 <!-- {{< vimeo-psconf2019 title="PowerShell Conference Asia 2019">}} -->
 
 <!-- ... -->
