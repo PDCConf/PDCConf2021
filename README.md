@@ -8,20 +8,6 @@
 
 * If you need to use tools, or deploy, you also need [NodeJS](https://nodejs.org/en/) and [Yarn](https://yarnpkg.com/lang/en/docs/install).
 
-## Install Theme
-
-```bash
-git submodule init
-git submodule update themes/devfest-theme-hugo
-```
-
-## Commit theme update
-
-When you have made changes on the theme, you need to add the
-
-```
-git add themes/devfest-theme-hugo
-```
 
 ## Run Local site
 
@@ -60,12 +46,6 @@ You can use `hugo new blog/i-create-a-new-entry.md` command and then edit it.
 Or just copy an already existing blog entry, and update the content.
 
 ### Update the theme
-
-If you need to touch file of the theme (i.e. into `./themes/devfest-theme-hugo/`) you to know one more thing:
- 
-The theme is in another Git repository <https://github.com/kvprasoon/devfest-theme-hugo>,
-it's using [git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules),
-so you need to handle this two repository.
  
 So this is an example of workflow:
  
@@ -85,10 +65,5 @@ So this is an example of workflow:
 To publish the site on firebase, just run `firebase deploy`.
 Note that you need to authenticate once with `firebase login`
 YOU DON'T NEED to publish manually the website, it's already done by pushing on `develop` or `master` branches.
- 
-You could take a look at the `.gitlab-ci.yml` file
 
 
-### Extract data from CFP
-
-TODO...
