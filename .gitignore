@@ -1,5 +1,12 @@
 /resources/
 public/
+content
+data
+resources
+static
+theme
+tools
+.firebaserc
 node_modules/
 .firebase/
 .idea/
