@@ -1,0 +1,16 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+<section class="partners">
+<div class="inner">
+{{ .Inner }}
+</div>
+
+<div>
+	<table cellspacing="20" align="center">
+		<tr>
+			{{ range (split (.Get "images") ",") }}
+			<td><img src="{{.}}" width="200"/></td>
+			{{ end }}			
+		</tr>
+	</table>
+</div>
+

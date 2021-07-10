@@ -25,6 +25,20 @@ Coming soon....
 
 {{% /jumbo %}}
 
+{{% other-info class="secondary" %}}
+
+PowerShell DevOps and Cloud Conference will be a 3 day multi-track virtual conference between 15-17 September 2021.
+
+PDC Conference focuses on
+*  PowerShell in and out
+
+*  Multi Cloud tech talks
+
+*  Sessions focusing on DevOps and many more...
+
+The Call for Speakers is open now. Submit your sessions [here](https://sessionize.com/ps-confasia-test/)
+
+{{% /other-info %}}
 
 {{% home-info what=":Online,Days:3,Sessions:24,Parallel Tracks:3" class="primary" %}}
 ## #PDCConf2021
@@ -34,6 +48,8 @@ The biggest PowerShell Conference in Asia has adopted a new dimension and format
 Come along, share your knowledge and learn something new.
 
 {{% /home-info %}}
+
+
 
 {{% share-button %}}
 {{% /share-button %}}
@@ -138,7 +154,7 @@ in the immediate vicinity of the centre of Toulouse and in a green environment.
 
 <!-- ... --> 
 
-{{% partners categories="startup" %}}
+{{% sponsors images="./images/partners/Microsoft.png,./images/partners/Tecoholic.png" %}}
 
 ## Sponsors
-{{% /partners %}}
+{{% /sponsors %}}
