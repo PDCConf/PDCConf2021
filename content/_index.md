@@ -154,7 +154,7 @@ in the immediate vicinity of the centre of Toulouse and in a green environment.
 
 <!-- ... --> 
 
-{{% sponsors images="./images/partners/Microsoft.png,./images/partners/Tecoholic.png" %}}
+{{% sponsors images="./images/sponsors/Microsoft.png,./images/sponsors/Tecoholic.png" %}}
 
 ## Sponsors
 {{% /sponsors %}}
