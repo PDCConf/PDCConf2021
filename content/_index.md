@@ -11,9 +11,9 @@ menu:
 
 {{% jumbo img="./images/backgrounds/back-0.jpg" imgLabel="PDC Conf 2021" %}}
 
-## PowerShell DevOps and Cloud Conference 2021
+## PowerShell | DevOps | Cloud Conference 2021
 
-Coming soon....
+Free Virtual event on September 16 and 17
 
 <!-- <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a> -->
 
@@ -27,20 +27,26 @@ Coming soon....
 
 {{% other-info class="secondary" %}}
 
-PowerShell DevOps and Cloud Conference will be a 3 day multi-track virtual conference between 15-17 September 2021.
+PowerShell, DevOps, and Cloud Conference 2021 is a two-day event to feature a comprehensive technical and industry experience covering the cutting edge topics around PowerShell, DevOps, and Cloud. Do you have an idea and developing it as content to present? Our pdcconf.in is looking for aspiring speakers like you! Get ready to speak and spread your ideas...
 
-PDC Conference focuses on
-*  PowerShell in and out
+Some ideas for you to present in our virtual podium 
 
-*  Multi Cloud tech talks
+* PowerShell
+* Transforming ITOps to DevOps
+* Serverless
+* Kubernetes
+* Containers
+* Your journey in DevOps
+* OSS engagements.
+* Cloud-Native / Hybrid solutions
+* Automation
+* Integration, Workflows & Orchestration.
 
-*  Sessions focusing on DevOps and many more...
-
-The Call for Speakers is open now. Submit your sessions [here](https://sessionize.com/ps-confasia-test/)
+You think about anything in IT that helped your organization in cost depletion, deliverables at pace with the quality of service, or other benefits! Join us virtually to share your thought process that helps many across the geography.
 
 {{% /other-info %}}
 
-{{% home-info what=":Online,Days:3,Sessions:24,Parallel Tracks:3" class="primary" %}}
+{{% home-info what=":Online,Days:2,Sessions:45+,Parallel Tracks:3" class="primary" %}}
 ## #PDCConf2021
 
 The biggest PowerShell Conference in Asia has adopted a new dimension and formats to bring expert sessions on DevOps and Cloud.

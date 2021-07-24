@@ -19,7 +19,7 @@ googleAnalytics = "UA-37717223-8"
     date = "2021-09-15"
     description = "PDC Conference description here"
     images = ["/images/social-share.jpg"]
-    email = "contact@pdcconf.in"
+    email = "info@pdcconf.in"
     keywords = "event, gdg, gde, devfest, google, programming, android, chrome, developers, web, cloud, androiddev"
     copyright = "We :heart:️ chocolatines"
     cfpUrl = "sessionize url here"
@@ -45,7 +45,7 @@ googleAnalytics = "UA-37717223-8"
 [[menu.main]]
     identifier = "CFP"
     name = "CFP"
-    url = "https://sessionize.com/ps-confasia-test/"
+    url = "https://sessionize.com/powershell-devops-and-cloud-conference"
     weight = 100
     external = true
 

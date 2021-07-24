@@ -12,7 +12,7 @@ follow:
   - name: linkedin
     url: https://www.linkedin.com/company/pdcconf/
   - name: youtube
-    url: https://www.youtube.com/channel/UCnWPTrwSmO5xvjOiqqLTYpg
+    url: https://www.youtube.com/channel/UCs7YSBJdBwYTsrF94P9MByg
 
 content:
   - title: footer_about
@@ -20,9 +20,6 @@ content:
       - name: PDC Conference
         url: http://pdcconf.in/
         newTab: true
-      - nameKey: footer_coc
-        url: /code-of-conduct/
-        newTab: false
 
 #  - title: footer_become_partners
 #    links:
