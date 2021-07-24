@@ -31,30 +31,21 @@ Free Virtual event on September 16 and 17
 
 The biggest PowerShell Conference in Asia has adopted a new dimension and formats to bring expert sessions on DevOps and Cloud.
 
+PowerShell, DevOps, and Cloud Conference 2021 is a Free two-day online event to feature a comprehensive technical and industry experience covering the cutting edge topics around PowerShell, DevOps, and Cloud.
+
 Come along, share your knowledge and learn something new.
 
+
 {{% /home-info %}}
+<!-- {{% home-info_ext  class="primary" %}}
 
-{{% other-info class="secondary" %}}
+{{% /home-info_ext %}} -->
 
-PowerShell, DevOps, and Cloud Conference 2021 is a two-day event to feature a comprehensive technical and industry experience covering the cutting edge topics around PowerShell, DevOps, and Cloud. Do you have an idea and developing it as content to present? Our pdcconf.in is looking for aspiring speakers like you! Get ready to speak and spread your ideas...
+{{% home-register  class="secondary" %}}
 
-Some ideas for you to present in our virtual podium 
+## 16th and 17th September 09.00 AM to 05.00 PM IST.
 
-* PowerShell
-* Transforming ITOps to DevOps
-* Serverless
-* Kubernetes
-* Containers
-* Your journey in DevOps
-* OSS engagements.
-* Cloud-Native / Hybrid solutions
-* Automation
-* Integration, Workflows & Orchestration.
-
-You think about anything in IT that helped your organization in cost depletion, deliverables at pace with the quality of service, or other benefits! Join us virtually to share your thought process that helps many across the geography.
-
-{{% /other-info %}}
+{{% /home-register %}}
 
 {{% share-button %}}
 {{% /share-button %}}
@@ -82,11 +73,6 @@ You think about anything in IT that helped your organization in cost depletion, 
 
 <!-- ... -->
 
-<!-- {{% home-subscribe  class="primary" %}}
-
-## Get notified about the important conference updates
-
-{{% /home-subscribe %}} -->
 
 <!-- ... -->
 

@@ -67,8 +67,8 @@ other = "Code de conduite"
 [newsletter]
 other = "Newsletter"
 
-[subscribe_notice]
+[register_notice]
 other = "Pas de spam, juste les dernières infos !"
 
 [subscribe_action]
-other = "Souscrire"
+other = "Register"

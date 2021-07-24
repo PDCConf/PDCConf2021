@@ -64,11 +64,11 @@
 			{{ if .Site.Params.subscriptionUrl }}
 			<section class="subscribe">
 				<header>{{ i18n "newsletter" }}</header>
-				<p>{{ i18n "subscribe_notice" }}</p>
+				<p>{{ i18n "register_notice" }}</p>
 				<a href="{{ .Site.Params.subscriptionUrl }}"
 				   class="btn" rel="noreferrer" target="_blank">
 					{{ partial "icon.html" "subscribe" }}
-					{{- i18n "subscribe_action" -}}
+					{{- i18n "register_action" -}}
 				</a>
 			</section>
 			{{ end }}

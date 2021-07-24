@@ -1,16 +1,16 @@
 {{ $_hugo_config := `{ "version": 1 }` }}
 
-
 <section class="info container {{ .Get "class" }}">
-<div class="wrapper">
+	
+<div >
 	<div >
 		{{ .Inner }}
 	</div>
-
+	
 	{{ with .Get "what" }}
-	<div class="numbers">
+	<div >
 		{{range (split . ",") }}
-		<div class="number">
+		<div >
 			{{ $labelValue := (split . ":") }}
 			{{ $label := (index $labelValue 0) }}
 			{{ $value := (index $labelValue 1) }}
