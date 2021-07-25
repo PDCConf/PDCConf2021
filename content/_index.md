@@ -37,7 +37,7 @@ Come along, share your knowledge and learn something new.
 
 
 {{% /home-info %}}
-<!-- {{< youtube-section link="AFhHrQIAw3g" title="" class="" >}} -->
+{{< youtube-section link="yKNQ7Cb92SM" title="Announcing PDCConf 2021" class="" >}}
 <!-- {{% home-info_ext  class="primary" %}}
 
 {{% /home-info_ext %}} -->
