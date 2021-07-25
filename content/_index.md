@@ -37,13 +37,14 @@ Come along, share your knowledge and learn something new.
 
 
 {{% /home-info %}}
+<!-- {{< youtube-section link="AFhHrQIAw3g" title="" class="" >}} -->
 <!-- {{% home-info_ext  class="primary" %}}
 
 {{% /home-info_ext %}} -->
 
 {{% home-register  class="secondary" %}}
 
-## 16th and 17th September 09.00 AM to 06.00 PM IST.
+## 16th and 17th September 09.00 AM to 06.00 PM IST
 
 {{% /home-register %}}
 
@@ -58,7 +59,7 @@ Come along, share your knowledge and learn something new.
 <!-- {{% home-speakers %}}
 ## Featured Speakers
 
-<!--
+
 {{< button-link label="Submit a presentation"
                 url="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
                 icon="cfp" >}}
@@ -147,5 +148,5 @@ in the immediate vicinity of the centre of Toulouse and in a green environment.
 
 {{% sponsors images="./images/sponsors/Microsoft.png,./images/sponsors/Tecoholic.png" %}}
 
-## Sponsors
+## Supported by
 {{% /sponsors %}}
