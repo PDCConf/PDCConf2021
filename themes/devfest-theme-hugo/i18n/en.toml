@@ -72,4 +72,8 @@ other = "Newsletter"
 other = "No spam, only the latest news and updates!"
 
 [subscribe_action]
-other = "Register here"
+other = "Registrations to be opened soon"
+
+[cfp_action]
+other = "Submit your sessions here"
+

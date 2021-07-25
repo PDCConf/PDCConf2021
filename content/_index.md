@@ -43,7 +43,7 @@ Come along, share your knowledge and learn something new.
 
 {{% home-register  class="secondary" %}}
 
-## 16th and 17th September 09.00 AM to 05.00 PM IST.
+## 16th and 17th September 09.00 AM to 06.00 PM IST.
 
 {{% /home-register %}}
 
