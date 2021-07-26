@@ -68,7 +68,6 @@ googleAnalytics = "UA-XXXXXXXX-X"
     favicon32 = "/favicon-32x32.png"
     favicon16 = "/favicon-16x16.png"
     manifest = "/manifest.json"
-    safariPinnedTab = "/safari-pinned-tab.svg"
     themeColor = "#673ab7"
     googleWebmasterKey = "googleXXXXXXX" # https://support.google.com/webmasters/answer/9008080#html_verification
 
