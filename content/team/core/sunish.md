@@ -8,7 +8,7 @@ socials:
     name: Twitter
   - link: 'https://github.com/sunishsurendrank'
     name: Github   
-  - link: 'https://sunishsurendrank.github.io/home/'
+  - link: 'https://dev.to/sunishsurendrank'
     name: Site      
   - link: 'https://www.linkedin.com/in/sunishsurendrank'
     name: Linkedin
