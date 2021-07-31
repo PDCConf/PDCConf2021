@@ -7,7 +7,9 @@
 {{ $site := .Site }}
 {{ range (split (.Get "categories") ",") }}
 <section class="partners-group partner-{{ . }}">
-
+<h3 class="fancy">
+<span>{{ . }}</span>
+</h3>
 <ul>
 	{{ $partners := where $site.AllPages "Params.category" . }}
 {{ range sort $partners ".Params.order" "asc" }}

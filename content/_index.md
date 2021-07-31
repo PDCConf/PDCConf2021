@@ -146,6 +146,11 @@ in the immediate vicinity of the centre of Toulouse and in a green environment.
 
 <!-- ... --> 
 
+
+{{% partners categories="platinium,gold,silver,supportedby" %}}
+## Sponsors
+{{% /partners %}}
+
 {{% sponsors images="./images/sponsors/Microsoft.png,./images/sponsors/Tecoholic.png" %}}
 
 ## Supported by
