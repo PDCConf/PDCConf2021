@@ -1,0 +1,7 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+{{ $cfpUrl := .Get "cfpUrl" }}
+{{ $cfpIcon := .Get "cfpIcon" }}
+<section class="subscribe {{ .Get "class" }}">
+	<div class="inner">{{ .Inner }}</div>
+		<a href="{{$cfpUrl}}" target="_blank"><img src="{{$cfpIcon}}"></a>
+</section>

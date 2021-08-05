@@ -1,5 +1,7 @@
 {{ $_hugo_config := `{ "version": 1 }` }}
 {{ $imgLabel := .Get "imgLabel" }}
+{{ $cfpUrl := .Get "cfpUrl" }}
+{{ $cfpIcon := .Get "cfpIcon" }}
 {{ $logo := .Site.Params.logos.jumbo }}
 <div class="jumbo">
 	<div class="jumbo-cover" style="background-image: url('{{ .Get "img" }}')" {{ if $imgLabel }}aria-label="{{ $imgLabel }}"{{ end }}></div>
@@ -12,11 +14,15 @@
 				
 		{{ if $logo }}
 		<img class="jumbo-logo" src="{{ $logo }}" alt="logo {{ .Site.Title }}">
+		
 		{{ end }}
 		
 		<div class="inner">
 			{{ .Inner }}
+			<a href="{{$cfpUrl}}" target="_blank"><img src="{{$cfpIcon}}"></a>
+			<a href="{{$cfpUrl}}" target="_blank"><p>Call for speakers is now open!</p></a>
 		</div>
+		
 	</div>
 	
 	<div class="scroll-down" aria-hidden="true">

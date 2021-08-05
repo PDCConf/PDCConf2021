@@ -9,8 +9,7 @@ menu:
 ---
 
 
-{{% jumbo img="./images/backgrounds/back-0.jpg" imgLabel="PDC Conf 2021" %}}
-
+{{% jumbo img="./images/backgrounds/back-0.jpg" imgLabel="PDC Conf 2021" cfpUrl="https://sessionize.com/powershell-devops-and-cloud-conference" cfpIcon="./images/other/cfp.png" %}}
 ## PowerShell | DevOps | Cloud Conference 2021
 
 Free Virtual event on September 16 and 17
@@ -47,6 +46,10 @@ Come along, share your knowledge and learn something new.
 ## 16th and 17th September 09.00 AM to 06.00 PM IST
 
 {{% /home-register %}}
+
+{{% home-cfp  class="primary" cfpUrl="https://sessionize.com/powershell-devops-and-cloud-conference" cfpIcon="./images/other/cfp-1.png" %}}
+## Call for Speakers is now open !
+{{% /home-cfp %}}
 
 {{% share-button %}}
 {{% /share-button %}}
@@ -145,11 +148,6 @@ in the immediate vicinity of the centre of Toulouse and in a green environment.
 {{% /album  %}}
 
 <!-- ... --> 
-
-
-{{% partners categories="platinium,gold,silver,supportedby" %}}
-## Sponsors
-{{% /partners %}}
 
 {{% sponsors images="./images/sponsors/Microsoft.png,./images/sponsors/Tecoholic.png" %}}
 
