@@ -1,0 +1,16 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+<section class="subscribe {{ .Get "class" }}">
+	<div class="inner">{{ .Inner }}
+		<br><br>
+		{{ range (split (.Get "images") ",") }}
+		<div >
+			<img src="{{.}}">
+		</div>
+		{{ end }}
+	</div>	
+	<!-- {{ range (split (.Get "images") ",") }}
+	<div >
+		<img src="{{.}}">
+	</div>
+	{{ end }} -->
+</section>

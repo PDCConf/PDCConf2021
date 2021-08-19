@@ -25,21 +25,40 @@ Free Virtual event on September 16 and 17
 {{% /jumbo %}}
 
 
-{{% home-info what=":Online,Days:2,Sessions:45+,Parallel Tracks:3" class="primary" %}}
+{{% home-info what=":Online,Days:2,Sessions:45+,Parallel Tracks:3" class="primary" images="./images/other/PDC-Techs.png,./images/other/alltechs.png" %}}
 ## #PDCConf2021
 
 The biggest PowerShell Conference in Asia has adopted a new dimension and formats to bring expert sessions on DevOps and Cloud.
 
-PowerShell, DevOps, and Cloud Conference 2021 is a Free two-day online event to feature a comprehensive technical and industry experience covering the cutting edge topics around PowerShell, DevOps, and Cloud.
+PowerShell, DevOps and Cloud Conference 2021 is a Free two-day online event to feature a comprehensive technical and industry experience covering the cutting edge topics around PowerShell, DevOps and Cloud.
 
 Come along, share your knowledge and learn something new.
 
 
 {{% /home-info %}}
+
+{{% home-showtech images="./images/other/PDC-Techs.png" class="primary" %}}
+
+# Any Cloud | Open Source | DevOps | PowerShell | ITOps | Serverless | Kubernetes | Containers | OSS engagements
+****
+# Cloud-Native | Hybrid solutions | Automation | Integration | Workflows | Orchestration | AI and ML
+
+{{% /home-showtech %}}
+
+<!-- TODO Feature speakers to be added when accepted -->
+{{% home-speakers %}}
+## Keynote Speaker
+
+{{% /home-speakers %}}
+
 {{< youtube-section link="yKNQ7Cb92SM" title="Announcing PDCConf 2021" class="" >}}
 <!-- {{% home-info_ext  class="primary" %}}
 
 {{% /home-info_ext %}} -->
+
+{{% home-cfp  class="primary" cfpUrl="https://sessionize.com/powershell-devops-and-cloud-conference" cfpIcon="./images/other/cfp-1.png" %}}
+## Call for Speakers is now open !
+{{% /home-cfp %}}
 
 {{% home-register  class="secondary" %}}
 
@@ -47,32 +66,11 @@ Come along, share your knowledge and learn something new.
 
 {{% /home-register %}}
 
-{{% home-cfp  class="primary" cfpUrl="https://sessionize.com/powershell-devops-and-cloud-conference" cfpIcon="./images/other/cfp-1.png" %}}
-## Call for Speakers is now open !
-{{% /home-cfp %}}
-
 {{% share-button %}}
 {{% /share-button %}}
 <!-- {{< vimeo-psconf2019 title="PowerShell Conference Asia 2019">}} -->
 
 <!-- ... -->
-
-
-<!-- TODO Feature speakers to be added when accepted -->
-<!-- {{% home-speakers %}}
-## Featured Speakers
-
-
-{{< button-link label="Submit a presentation"
-                url="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
-                icon="cfp" >}}
-
-
-{{< button-link label="See all speakers"
-                url="./speakers"
-                icon="right" >}}
-
-{{% /home-speakers %}} -->
 
 
 <!-- ... -->
