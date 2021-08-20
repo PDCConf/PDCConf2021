@@ -25,7 +25,7 @@ Free Virtual event on September 16 and 17
 {{% /jumbo %}}
 
 
-{{% home-info what=":Online,Days:2,Sessions:45+,Parallel Tracks:3" class="primary" images="./images/other/PDC-Techs.png,./images/other/alltechs.png" %}}
+{{% home-info what=":Online,Days:2,Sessions:60,Parallel Tracks:3" class="primary" images="./images/other/PDC-Techs.png,./images/other/alltechs.png" %}}
 ## #PDCConf2021
 
 The biggest PowerShell Conference in Asia has adopted a new dimension and formats to bring expert sessions on DevOps and Cloud.
@@ -47,12 +47,12 @@ Come along, share your knowledge and learn something new.
 
 <!-- TODO Feature speakers to be added when accepted -->
 {{% home-speakers %}}
-## Keynote Speaker
+## Keynote Speakers
 
 {{% /home-speakers %}}
 
 
-{{% featured-speakers %}}
+<!-- {{% featured-speakers %}}
 ## Featured Speakers
 
 {{% /featured-speakers %}}
@@ -60,7 +60,7 @@ Come along, share your knowledge and learn something new.
 {{% student-speakers %}}
 ## Student Speakers
 
-{{% /student-speakers %}}
+{{% /student-speakers %}} -->
 
 {{< youtube-section link="yKNQ7Cb92SM" title="Announcing PDCConf 2021" class="" >}}
 <!-- {{% home-info_ext  class="primary" %}}
