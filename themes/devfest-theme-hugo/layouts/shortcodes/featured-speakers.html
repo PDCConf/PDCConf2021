@@ -6,7 +6,7 @@
 	</div>
 
 	<ul >
-		{{ range where $.Site.AllPages "Params.keynote" true }}
+		{{ range where $.Site.AllPages "Params.feature" true }}
 		<li>
 			{{ partial "speaker.html" . }}
 		</li>

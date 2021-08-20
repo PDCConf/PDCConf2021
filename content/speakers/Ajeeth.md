@@ -1,12 +1,12 @@
 ---
-key: satyavel
-name: Satya Vel
+key: ajeeth
+name: Ajeeth
 id: KkCVbJvhE1OL1Dd51U4t9H54iFT2
-keynote: true
-company: Microsoft
+feature: true
+company: company
 city: 'Seattle, US'
-role: Head of product for Azure Infrastructure as Code
-photoURL: /images/speakers/satyavel.jpg
+role: Docker Captain
+photoURL: /images/speakers/ajeeth.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/satya_vel'

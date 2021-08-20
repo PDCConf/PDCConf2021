@@ -3,12 +3,13 @@
 {{ .Content }}
 
 <section>
-	<ul class="speakers shuffle">
+	<!-- <ul class="speakers shuffle">
 		{{ $speakers := where .Site.AllPages ".Section" "speakers" }}
 		{{ range where $speakers ".Kind" "page" }}
 		<li>{{ partial "speaker.html" . }}</li>
 		{{ end }}
-	</ul>
+	</ul> -->
 </section>
+<script type="text/javascript" src="https://sessionize.com/api/v2/qa5fjpqn/view/SpeakerWall"></script>
 
 {{ end }}

@@ -1,12 +1,12 @@
 ---
-key: satyavel
-name: Satya Vel
+key: aditi
+name: Aditi Ahuja
 id: KkCVbJvhE1OL1Dd51U4t9H54iFT2
-keynote: true
-company: Microsoft
+student: true
+company: XYZ College
 city: 'Seattle, US'
-role: Head of product for Azure Infrastructure as Code
-photoURL: /images/speakers/satyavel.jpg
+role: Student
+photoURL: /images/speakers/aditi.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/satya_vel'

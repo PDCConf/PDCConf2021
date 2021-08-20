@@ -9,7 +9,7 @@ menu:
 ---
 
 
-{{% jumbo img="./images/backgrounds/back-0.jpg" imgLabel="PDC Conf 2021" cfpUrl="https://sessionize.com/powershell-devops-and-cloud-conference" cfpIcon="./images/other/cfp.png" %}}
+{{% jumbo img="./images/backgrounds/back-0.jpg" imgLabel="PDC Conf 2021" cfpUrl="https://www.eventbrite.com/e/powershell-devops-and-cloud-conference-2021-tickets-164643185199" cfpIcon="./images/other/register.png" %}}
 ## PowerShell | DevOps | Cloud Conference 2021
 
 Free Virtual event on September 16 and 17
@@ -51,20 +51,32 @@ Come along, share your knowledge and learn something new.
 
 {{% /home-speakers %}}
 
+
+{{% featured-speakers %}}
+## Featured Speakers
+
+{{% /featured-speakers %}}
+
+{{% student-speakers %}}
+## Student Speakers
+
+{{% /student-speakers %}}
+
 {{< youtube-section link="yKNQ7Cb92SM" title="Announcing PDCConf 2021" class="" >}}
 <!-- {{% home-info_ext  class="primary" %}}
 
 {{% /home-info_ext %}} -->
 
-{{% home-cfp  class="primary" cfpUrl="https://sessionize.com/powershell-devops-and-cloud-conference" cfpIcon="./images/other/cfp-1.png" %}}
-## Call for Speakers is now open !
-{{% /home-cfp %}}
 
 {{% home-register  class="secondary" %}}
 
 ## 16th and 17th September 09.00 AM to 06.00 PM IST
 
 {{% /home-register %}}
+
+<!-- {{% home-cfp  class="primary" cfpUrl="https://sessionize.com/powershell-devops-and-cloud-conference" cfpIcon="./images/other/cfp-1.png" %}}
+## Call for Speakers is now open !
+{{% /home-cfp %}} -->
 
 {{% share-button %}}
 {{% /share-button %}}

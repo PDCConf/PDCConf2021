@@ -1,12 +1,12 @@
 ---
-key: satyavel
-name: Satya Vel
+key: vandana
+name: Vandana Verma
 id: KkCVbJvhE1OL1Dd51U4t9H54iFT2
-keynote: true
-company: Microsoft
+feature: true
+company: Company
 city: 'Seattle, US'
-role: Head of product for Azure Infrastructure as Code
-photoURL: /images/speakers/satyavel.jpg
+role: Global Board of Directors - OWASP
+photoURL: /images/speakers/vandana.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/satya_vel'

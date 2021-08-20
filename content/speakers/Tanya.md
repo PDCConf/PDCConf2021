@@ -1,12 +1,12 @@
 ---
-key: satyavel
-name: Satya Vel
+key: tanya
+name: Tanya Janca
 id: KkCVbJvhE1OL1Dd51U4t9H54iFT2
-keynote: true
-company: Microsoft
+feature: true
+company: Company
 city: 'Seattle, US'
-role: Head of product for Azure Infrastructure as Code
-photoURL: /images/speakers/satyavel.jpg
+role: CEO and Founder at We Hack Purple
+photoURL: /images/speakers/tanya.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/satya_vel'
