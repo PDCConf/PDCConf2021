@@ -15,4 +15,4 @@ socials:
     link: 'https://www.linkedin.com/in/vikas-bhonsle-54614a1/'
     name: Vikas Bhonsle    
 ---
-Vikas is the Cheif Executive Officer at Crayon Software Experts Private Limited setting up the India business for the Crayon group which operates in 14 countries outside India. We are specialists in software asset management , software licencing and experts in software asset lifecycle management for our customers.
+<!-- Vikas is the Cheif Executive Officer at Crayon Software Experts Private Limited setting up the India business for the Crayon group which operates in 14 countries outside India. We are specialists in software asset management , software licencing and experts in software asset lifecycle management for our customers. -->
