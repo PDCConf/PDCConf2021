@@ -42,12 +42,7 @@ googleAnalytics = "UA-37717223-8"
     footer = "/images/logos/PDCConf_transparent_logo.png"
 
 [menu]
-[[menu.main]]
-    identifier = "CFP"
-    name = "CFP"
-    url = "https://sessionize.com/powershell-devops-and-cloud-conference"
-    weight = 100
-    external = true
+
 
 [languages]
 [languages.en]
