@@ -25,12 +25,15 @@ Free Virtual event on September 16 and 17
 {{% /jumbo %}}
 
 
-{{% home-info what=":Online,Days:2,Speakers/Sessions:51/60,Parallel Tracks:3" class="primary" images="./images/other/PDC-Techs.png,./images/other/alltechs.png" %}}
+{{% home-info what=":Online,Days:2,Speakers/Sessions:51/60,Parallel Tracks:3" class="primary" %}}
 ## #PDCConf2021
 
-The biggest PowerShell Conference in Asia has adopted a new dimension and formats to bring expert sessions on DevOps and Cloud.
+The biggest PowerShell Conference in Asia has adopted a new
+dimension and formats to bring expert sessions on DevOps and Cloud.
 
-PowerShell, DevOps and Cloud Conference 2021 is a Free two-day online event to feature a comprehensive technical and industry experience covering the cutting edge topics around PowerShell, DevOps and Cloud.
+PowerShell, DevOps and Cloud Conference 2021 is a Free two-day online 
+event to feature a comprehensive technical and industry experience 
+covering the cutting edge topics around PowerShell, DevOps and Cloud.
 
 Come along, share your knowledge and learn something new.
 
@@ -52,21 +55,22 @@ Come along, share your knowledge and learn something new.
 {{% /home-speakers %}}
 
 
-<!-- {{% featured-speakers %}}
-## Featured Speakers
+{{% featured-speakers %}}
+## Softskill Speakers
+PDCConf2021 is bringing new experience to our audience by having non technical sessions. While we all are busy in getting the job done at work,
+
+**Gowri Priya Sethuram** and **Arun PV** will be taking us throught
+some important aspects at work and life which will help us to perform better in both.
 
 {{% /featured-speakers %}}
 
-{{% student-speakers %}}
+ {{% student-speakers %}}
 ## Student Speakers
+We are very happy to announce our student speakers **Aditi Ahuja**, **Anamika Singh** and **Debabrata Panigrahi**, we appreciate and encourage their effort to present in our conference.
 
-{{% /student-speakers %}} -->
+{{% /student-speakers %}}
 
 {{< youtube-section link="yKNQ7Cb92SM" title="Announcing PDCConf 2021" class="" >}}
-<!-- {{% home-info_ext  class="primary" %}}
-
-{{% /home-info_ext %}} -->
-
 
 {{% home-register  class="secondary" %}}
 

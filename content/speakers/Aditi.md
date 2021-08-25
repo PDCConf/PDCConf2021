@@ -3,21 +3,21 @@ key: aditi
 name: Aditi Ahuja
 id: KkCVbJvhE1OL1Dd51U4t9H54iFT2
 student: true
-company: XYZ College
-city: 'Seattle, US'
-role: Student
+company: PES University
+city: 'Bengaluru, India'
+role: Student Intern at NASDAQ
 photoURL: /images/speakers/aditi.jpg
 socials:
-  - icon: twitter
-    link: 'https://twitter.com/satya_vel'
-    name: satya_vel
+  - icon: site
+    link: 'https://metonymic-smokey.github.io/'
+    name: Blog
   - icon: github
-    link: 'https://github.com/satyavel'
-    name: satyavel
+    link: 'https://github.com/metonymic-smokey'
+    name: metonymic-smokey
   - icon: linkedin
-    link: 'https://www.linkedin.com/in/SATYAVEL/'
-    name: satyavel    
+    link: 'https://www.linkedin.com/in/aditi-ahuja-334394193'
+    name: Aditi Ahuhja    
 ---
-Head of product for Azure Infrastructure as Code offering (Azure Resource Manager, Bicep) and Governance offering (Azure Blueprints). The Azure deployment and governance services portfolio focuses on enabling enterprise to quickly and easily create and manage Azure resources at scale while providing the necessary guard rails for Enterprises to ensure data security, compliance and enforcing organization standards.
-
-Responsible for defining product strategy and core deployment platform services and tools in Azure.
+Computer Science student passionate about venturing into newer, niche fields in the subject and giving them her all! I am interested in exploring possibilities in fields off the beaten track and collaborating with and learning from like-minded peers on the same.
+Open to challenges and opportunities, technical or otherwise!
+Strong professional with a Bachelor of Technology - BTech focused in Computer Science from PES University.

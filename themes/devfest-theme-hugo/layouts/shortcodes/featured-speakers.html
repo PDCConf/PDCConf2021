@@ -6,7 +6,7 @@
 	</div>
 
 	<ul >
-		{{ range where $.Site.AllPages "Params.feature" true }}
+		{{ range where $.Site.AllPages "Params.nontech" true }}
 		<li>
 			{{ partial "speaker.html" . }}
 		</li>
