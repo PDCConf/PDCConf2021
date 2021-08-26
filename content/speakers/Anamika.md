@@ -1,6 +1,6 @@
 ---
 key: anamika
-name: Anamika Sing
+name: Anamika Singh
 id: KkCVbJvhE1OL1Dd51U4t9H54iFT2
 student: true
 company: Haldia Institute of Technoogy
