@@ -25,7 +25,7 @@ Free Virtual event on September 16 and 17
 {{% /jumbo %}}
 
 
-{{% home-info what=":Online,Days:2,Speakers/Sessions:51/60,Parallel Tracks:3" class="primary" %}}
+{{% home-info what=":Online,Days:2,Speakers/Sessions:55/60,Parallel Tracks:3" class="primary" %}}
 ## #PDCConf2021
 
 The biggest PowerShell Conference in Asia has adopted a new
