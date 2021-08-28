@@ -72,11 +72,17 @@ We are very happy to announce our student speakers **Aditi Ahuja**, **Anamika Si
 
 {{< youtube-section link="yKNQ7Cb92SM" title="Announcing PDCConf 2021" class="" >}}
 
-{{% home-register  class="secondary" %}}
+<!-- {{% home-register  class="secondary" %}}
 
 ## 16th and 17th September 09.00 AM to 06.00 PM IST
 
-{{% /home-register %}}
+{{% /home-register %}} -->
+
+{{% all-speakers   %}}
+
+## Speakers Lineup
+
+{{% /all-speakers %}}
 
 <!-- {{% home-cfp  class="primary" cfpUrl="https://sessionize.com/powershell-devops-and-cloud-conference" cfpIcon="./images/other/cfp-1.png" %}}
 ## Call for Speakers is now open !
