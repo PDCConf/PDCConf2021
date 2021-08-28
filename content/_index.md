@@ -9,7 +9,7 @@ menu:
 ---
 
 
-{{% jumbo img="./images/backgrounds/back-0.jpg" imgLabel="PDC Conf 2021" cfpUrl="https://www.eventbrite.com/e/powershell-devops-and-cloud-conference-2021-tickets-164643185199" cfpIcon="./images/other/register.png" %}}
+{{% jumbo img="./images/backgrounds/back-0.jpg" imgLabel="PDC Conf 2021" cfpUrl="https://www.eventbrite.com/e/powershell-devops-and-cloud-conference-2021-tickets-164643185199" cfpIcon="./images/other/register-1.png" %}}
 ## PowerShell | DevOps | Cloud Conference 2021
 
 Free Virtual event on September 16 and 17
@@ -25,7 +25,7 @@ Free Virtual event on September 16 and 17
 {{% /jumbo %}}
 
 
-{{% home-info what=":Online,Days:2,Speakers/Sessions:55/60,Parallel Tracks:3" class="primary" %}}
+{{% home-info what=":Online,Days:2,Speakers/Sessions:55/60,Parallel Tracks:4" class="primary" %}}
 ## #PDCConf2021
 
 The biggest PowerShell Conference in Asia has adopted a new
