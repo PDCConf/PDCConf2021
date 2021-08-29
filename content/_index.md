@@ -25,7 +25,7 @@ Free Virtual event on September 16 and 17
 {{% /jumbo %}}
 
 
-{{% home-info what=":Online,Days:2,Speakers/Sessions:55/60,Parallel Tracks:4" class="primary" %}}
+{{% home-info what=":Online,Days:2,Speakers/Sessions:56/60,Parallel Tracks:4" class="primary" %}}
 ## #PDCConf2021
 
 The biggest PowerShell Conference in Asia has adopted a new
@@ -59,7 +59,7 @@ Come along, share your knowledge and learn something new.
 ## Softskill Speakers
 PDCConf2021 is bringing new experience to our audience by having non technical sessions. While we all are busy in getting the job done at work,
 
-**Gowri Priya Sethuram** and **Arun PV** will be taking us throught
+**Gowri Priya Sethuram** and **Arun PV** will be taking us through
 some important aspects at work and life which will help us to perform better in both.
 
 {{% /featured-speakers %}}
@@ -174,6 +174,11 @@ in the immediate vicinity of the centre of Toulouse and in a green environment.
 ## Sponsors
 {{% /partners %}}
 
-{{% sponsors images="./images/sponsors/Microsoft.png,./images/sponsors/Tecoholic.png" %}}
+<!-- {{% sponsors images="./images/sponsors/Microsoft.png,./images/sponsors/Tecoholic.png" %}}
 ## Supported by
-{{% /sponsors %}}
+{{% /sponsors %}} -->
+
+{{% supportedby categories="support" %}}
+
+## Supported by
+{{% /supportedby %}}
