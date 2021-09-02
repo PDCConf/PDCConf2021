@@ -1,0 +1,20 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+{{ $speakername := .Get "speaker" }}
+<section class="speakers">
+
+	<div class="inner">
+		{{ .Inner }}
+	</div>
+	{{ if .Params.speaker }}
+	<ul >
+		{{ range where $.Site.AllPages "Params.key" $speakername }}
+		<li>
+			{{ partial "speaker.html" . }}
+		</li>
+		{{ end }}
+	</ul>
+	{{end}}
+	{{ if .Params.common }}
+	
+	{{end}}
+</section>

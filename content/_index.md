@@ -40,13 +40,13 @@ Come along, share your knowledge and learn something new.
 
 {{% /home-info %}}
 
-{{% home-showtech images="./images/other/PDC-Techs.png" class="primary" %}}
+{{% home-showtechs images="/images/other/allcloud-1.png,/images/other/devops-1.png,/images/other/powershell-1.png" class="primary" %}}
 
 # Any Cloud | Open Source | DevOps | PowerShell | ITOps | Serverless | Kubernetes | Containers | OSS engagements
 ****
 # Cloud-Native | Hybrid solutions | Automation | Integration | Workflows | Orchestration | AI and ML
 
-{{% /home-showtech %}}
+{{% /home-showtechs %}}
 
 <!-- TODO Feature speakers to be added when accepted -->
 {{% home-speakers %}}
@@ -55,14 +55,26 @@ Come along, share your knowledge and learn something new.
 {{% /home-speakers %}}
 
 
-{{% featured-speakers %}}
+{{% featured-speakers-pdcconf common="yes"%}}
 ## Softskill Speakers
 PDCConf2021 is bringing new experience to our audience by having non technical sessions. While we all are busy in getting the job done at work,
 
 **Gowri Priya Sethuram** and **Arun PV** will be taking us through
 some important aspects at work and life which will help us to perform better in both.
 
-{{% /featured-speakers %}}
+{{% /featured-speakers-pdcconf %}}
+
+{{% featured-speakers-pdcconf speaker="arun" %}}
+{{% /featured-speakers-pdcconf %}}
+{{< youtube-section link="4EvHy7tixoA" title="An insight to Arun's Sessions" class="" >}}
+
+********
+
+{{% featured-speakers-pdcconf speaker="gowri" %}}
+
+{{% /featured-speakers-pdcconf %}}
+{{< youtube-section link="3eUtyMmsHEw" title="An insight to Gowri's Sessions" class="" >}}
+
 
  {{% student-speakers %}}
 ## Student Speakers
@@ -70,7 +82,6 @@ We are very happy to announce our student speakers **Aditi Ahuja**, **Anamika Si
 
 {{% /student-speakers %}}
 
-{{< youtube-section link="yKNQ7Cb92SM" title="Announcing PDCConf 2021" class="" >}}
 
 <!-- {{% home-register  class="secondary" %}}
 

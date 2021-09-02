@@ -7,6 +7,7 @@ company: Kaplan Performance Academy
 city: 'Bengaluru, India'
 role: Certified Life Coach
 photoURL: /images/speakers/arun.jpg
+youtubelink: 3eUtyMmsHEw
 socials:
   - icon: linkedin
     link: 'https://www.linkedin.com/in/arunpv/'
@@ -19,4 +20,3 @@ He will be delivering a talk on Personal Effectiveness drawing on the work of **
 
 ****
 
-{{< youtube-section link="4EvHy7tixoA" title="An Intro to Arun's Session" class="" >}}

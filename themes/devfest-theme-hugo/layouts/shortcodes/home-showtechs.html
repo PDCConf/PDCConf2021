@@ -1,0 +1,29 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+
+
+<section class="subscribe {{ .Get "class" }}">
+	<div class="inner">
+		{{ .Inner }}
+		</div>
+		
+		{{ $site := .Site }}
+	<!-- class="partners-group partner-support" -->
+<ul>
+
+{{ range (split (.Get "images") ",") }}
+	
+<!-- <div class="img" style="background-image: url('{{ . }}');"></div> -->
+<img src="{{ . }}" >
+
+{{ end }}
+</ul>
+
+
+	<!-- {{ $partners := where $site.AllPages "Params.category" . }}
+{{ range sort $partners ".Params.order" "asc" }}
+<th>{{ partial "supportedby.html" . }}</th>
+{{ end }} -->
+
+
+</section>
+
