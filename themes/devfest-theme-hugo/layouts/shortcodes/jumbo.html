@@ -1,7 +1,7 @@
 {{ $_hugo_config := `{ "version": 1 }` }}
 {{ $imgLabel := .Get "imgLabel" }}
 {{ $cfpUrl := .Get "cfpUrl" }}
-{{ $cfpIcon := .Get "cfpIcon" }}
+{{ $thankYouImage := .Get "thankYouImage" }}
 {{ $logo := .Site.Params.logos.jumbo }}
 <div class="jumbo">
 	<div class="jumbo-cover" style="background-image: url('{{ .Get "img" }}')" {{ if $imgLabel }}aria-label="{{ $imgLabel }}"{{ end }}></div>
@@ -17,8 +17,8 @@
 		
 		<div class="inner">
 			{{ .Inner }}
-			<!-- <a href="{{$cfpUrl}}" target="_blank"><img src="{{$cfpIcon}}"></a>
-			<a href="{{$cfpUrl}}" target="_blank"><p></p></a> -->
+			<a href=""><img src="{{$thankYouImage}}"></a>
+			<!-- <a href="{{$cfpUrl}}" target="_blank"><p></p></a> -->
 		</div>
 		
 	</div>
