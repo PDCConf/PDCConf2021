@@ -8,3 +8,11 @@ horizontal: false
 
 ---
 
+<!-- {{% hero %}}
+
+
+{{% /hero %}} -->
+
+{{% schedule-booth %}}
+
+{{% /schedule-booth %}}

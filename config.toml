@@ -25,6 +25,7 @@ googleAnalytics = "UA-37717223-8"
     cfpUrl = "sessionize url here"
     regsitrationUrl = "https://www.eventbrite.com/e/powershell-devops-and-cloud-conference-2021-tickets-164643185199"
     cfpSessionizeUrl = "https://sessionize.com/powershell-devops-and-cloud-conference"
+    virtualBoothUrl = "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDU1ZmVmNGQtYzY5Yi00ZGVmLTllNjgtM2ZjMzZhZDU0Nzlk%40thread.v2/0?context=%7b%22Tid%22%3a%22645f4842-9ffb-4493-bab9-5246f05bb886%22%2c%22Oid%22%3a%222e8071b7-4a59-4efb-a642-31bcc36512cd%22%7d"
     socialMediaShareText = "PDCConf 2021 is Announced, I'm excited. Check more details here: www.pdcconf.in"
     linkedInURL = "https://www.linkedin.com/company/pdcconf/"
     facebookPageURL = "https://www.facebook.com/pdcconf/"
@@ -40,6 +41,7 @@ googleAnalytics = "UA-37717223-8"
     jumbo = "/images/logos/PDCConf_transparent.png"
     header = "/images/logos/PDCConf_transparent_logo.png"
     footer = "/images/logos/PDCConf_transparent_logo.png"
+    booth = "/images/partners/cloudlabsai-booth.png"
 
 [menu]
 

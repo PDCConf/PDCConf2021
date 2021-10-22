@@ -20,4 +20,4 @@ To make all this possible, an awesome team is working behind the scenes.
 <!-- ... -->
 
 <!-- {{< teams types="core=Core Team,volunteers=Volunteers,cfp=CFP" >}} -->
-{{< teams types="core=Core Team" >}}
+{{< teams types="core=Core Team,volunteers=Volunteers" >}}

@@ -4,7 +4,7 @@ title: CloudLabsAI
 category: gold
 order: 1
 logo: /images/partners/cloudlabsai.png
-website: 'https://cloudlabs.ai/'
+website: 'https://bit.ly/3ybtU8t'
 lang: en
 socials:
   - icon: twitter

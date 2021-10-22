@@ -9,8 +9,11 @@ role: Student & Placement Coordinator
 photoURL: /images/speakers/anamika.png
 socials:
   - icon: github
-    link: 'https://github.com/reachtoana'
-    name: reachtoana
+    link: 'https://github.com/noviicee'
+    name: noviicee
+  - icon: twitter
+    link: 'https://twitter.com/reachtoana'
+    name: reachtoana    
   - icon: linkedin
     link: 'https://www.linkedin.com/in/anamika-singh-0fficial/'
     name: Anamika Singh    

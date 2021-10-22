@@ -74,6 +74,9 @@ other = "No spam, only the latest news and updates!"
 [subscribe_action]
 other = "Register here"
 
+[virtualbooth_action]
+other = "Click here to go to the virtulal booth"
+
 [cfp_action]
 other = "Submit your sessions here"
 

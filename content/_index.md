@@ -64,17 +64,19 @@ some important aspects at work and life which will help us to perform better in 
 
 {{% /featured-speakers-pdcconf %}}
 
-{{% featured-speakers-pdcconf speaker="arun" %}}
-{{% /featured-speakers-pdcconf %}}
-{{< youtube-section link="4EvHy7tixoA" title="An insight to Arun's Sessions" class="" >}}
-
-********
 
 {{% featured-speakers-pdcconf speaker="gowri" %}}
 
 {{% /featured-speakers-pdcconf %}}
-{{< youtube-section link="3eUtyMmsHEw" title="An insight to Gowri's Sessions" class="" >}}
+{{< youtube-section link="3eUtyMmsHEw" title="An insight to Gowri's Session" class="" >}}
 
+********
+
+{{% featured-speakers-pdcconf speaker="arun" %}}
+{{% /featured-speakers-pdcconf %}}
+{{< youtube-section link="4EvHy7tixoA" title="An insight to Arun's Session" class="" >}}
+
+********
 
  {{% student-speakers %}}
 ## Student Speakers
@@ -82,7 +84,7 @@ We are very happy to announce our student speakers **Aditi Ahuja**, **Anamika Si
 
 {{% /student-speakers %}}
 
-
+********
 <!-- {{% home-register  class="secondary" %}}
 
 ## 16th and 17th September 09.00 AM to 06.00 PM IST
@@ -95,6 +97,7 @@ We are very happy to announce our student speakers **Aditi Ahuja**, **Anamika Si
 
 {{% /all-speakers %}}
 
+********
 <!-- {{% home-cfp  class="primary" cfpUrl="https://sessionize.com/powershell-devops-and-cloud-conference" cfpIcon="./images/other/cfp-1.png" %}}
 ## Call for Speakers is now open !
 {{% /home-cfp %}} -->
@@ -165,8 +168,9 @@ in the immediate vicinity of the centre of Toulouse and in a green environment.
 {{% /home-location %}} -->
 
 <!-- ... -->
-
 {{% album images="./images/album/2019/PSConf2019-9.jpg,./images/album/2019/PSConf2019-19.jpg,./images/album/2019/PSConf2019-17.jpg,./images/album/2019/PSConf2019-12.jpg,./images/album/2019/PSConf2019-18.jpg,./images/album/2019/PSConf2019-4.jpg,./images/album/2019/PSConf2019-16.jpg,./images/album/2019/PSConf2019-20.jpg,./images/album/2019/PSConf2019-15.jpg,./images/album/2019/PSConf2019-2.jpg" %}}
+
+### Snaps from previous editions
 
 <!-- To share photos in shared drive
 ### Some pictures of the **DevFest Toulouse 2018** with the 👾 _retro-gaming_ theme.
@@ -178,6 +182,7 @@ in the immediate vicinity of the centre of Toulouse and in a green environment.
 
 {{% /album  %}}
 
+********
 <!-- ... --> 
 
 {{% partners categories="gold" %}}
